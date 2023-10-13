@@ -1,9 +1,7 @@
 
 import subprocess
 import os
-import numpy as np
-import yaml
-import cv2
+
 
 def find_blender_exe(min_version=2.8, max_version=5.0):
     """ Find the most recent version of Blender installed in the current device
