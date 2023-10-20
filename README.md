@@ -1,5 +1,7 @@
 # medical-3d-visualization
-[Liver Visualization from CT slices](/docs/csm_001_ct_slices.gif)
+
+Utilities for 3D reconstruction and visualization of [Liver Segmentation](https://github.com/tomn681/Liver-Segmentation) from CT Scans using Python and Blender.
+![Liver Visualization from CT slices](/docs/csm_001_ct_slices.gif)
 ## 1. Setup
 
 ### a. Install Blender:
