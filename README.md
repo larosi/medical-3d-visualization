@@ -1,4 +1,5 @@
 # medical-3d-visualization
+[Liver Visualization from CT slices](/docs/csm_001_ct_slices.gif)
 ## 1. Setup
 
 ### a. Install Blender:
@@ -15,7 +16,7 @@ conda install pynrrd
 pip install --upgrade PyMCubes
 ```
 
-## How to run it
+## 2. How to run it
 ### a. Convert NRRD image-label pair to Mesh
 convert your NRRD files to a mesh format `.obj`.
 *Note:* argparse for paths is pending. the scripts requires manual path specification.
